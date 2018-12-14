@@ -1,2 +1,3 @@
-# cppopts
-C++ Command line arguments parser
+# cpputils
+
+C++ utils library
